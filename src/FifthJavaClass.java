@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class FifthJavaClass {
+public class FifthJavaClass {
+    //This is an example of git-hub codes
 }
